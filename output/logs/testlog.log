@@ -1,0 +1,91 @@
+2023-02-21 17:16:14,156 - logger_File -INFO - user clicked on Sign in option button
+2023-02-21 17:16:14,498 - logger_File -INFO - user entered email and password
+2023-02-21 17:16:14,606 - logger_File -INFO - user click on Login button
+2023-02-21 17:16:14,635 - logger_File -INFO - user should be signed in
+2023-02-21 17:20:03,988 - logger_File -INFO - user clicked on Sign in option button
+2023-02-21 17:20:04,302 - logger_File -INFO - user entered email and password
+2023-02-21 17:20:04,411 - logger_File -INFO - user click on Login button
+2023-02-21 17:20:04,442 - logger_File -INFO - user should be signed in
+2023-02-21 19:21:07,217 - logger_File -INFO - user clicked on Sign in option button
+2023-02-21 19:21:07,616 - logger_File -INFO - user entered email and password
+2023-02-21 19:21:07,748 - logger_File -INFO - user click on Login button
+2023-02-21 19:21:07,788 - logger_File -INFO - user should be signed in
+2023-02-22 12:18:27,813 - logger_File -INFO - user clicked on Sign in option button
+2023-02-22 12:18:28,127 - logger_File -INFO - user entered email and password
+2023-02-22 12:18:28,221 - logger_File -INFO - user click on Login button
+2023-02-22 12:18:28,248 - logger_File -INFO - user should be signed in
+2023-02-25 17:08:28,879 - logger_File -INFO - user
+2023-02-25 17:08:30,610 - logger_File -INFO - user
+2023-02-25 17:08:32,387 - logger_File -INFO - user
+2023-02-25 17:08:34,101 - logger_File -INFO - user
+2023-02-25 17:08:35,802 - logger_File -INFO - user
+2023-02-25 17:19:13,498 - logger_File -INFO - user
+2023-02-25 17:19:13,972 - logger_File -INFO - user
+2023-02-25 17:19:16,583 - logger_File -INFO - user
+2023-02-25 17:19:16,835 - logger_File -INFO - user
+2023-02-25 17:19:18,851 - logger_File -INFO - user
+2023-02-25 17:19:19,219 - logger_File -INFO - user
+2023-02-25 17:19:21,350 - logger_File -INFO - user
+2023-02-25 17:19:21,737 - logger_File -INFO - user
+2023-02-25 17:19:23,750 - logger_File -INFO - user
+2023-02-25 17:19:24,073 - logger_File -INFO - user
+2023-02-25 17:20:08,030 - logger_File -INFO - user
+2023-02-25 17:20:11,346 - logger_File -INFO - user
+2023-02-25 17:20:12,985 - logger_File -INFO - user
+2023-02-25 17:20:14,816 - logger_File -INFO - user
+2023-02-25 17:20:16,554 - logger_File -INFO - user
+2023-02-25 17:25:19,823 - logger_File -INFO - user
+2023-02-25 17:25:21,853 - logger_File -INFO - user
+2023-02-25 17:25:23,652 - logger_File -INFO - user
+2023-02-25 17:25:25,263 - logger_File -INFO - user
+2023-02-25 17:25:26,938 - logger_File -INFO - user
+2023-02-25 23:08:35,953 - logger_File -INFO - user clicked on Sign in option button
+2023-02-25 23:08:36,239 - logger_File -INFO - user entered email and password
+2023-02-25 23:08:36,339 - logger_File -INFO - user click on Login button
+2023-02-25 23:08:36,365 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:19:33,587 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:19:33,813 - logger_File -INFO - user entered email and password
+2023-02-27 17:19:33,889 - logger_File -INFO - user click on Login button
+2023-02-27 17:19:33,912 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:22:25,515 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:22:25,745 - logger_File -INFO - user entered email and password
+2023-02-27 17:22:25,834 - logger_File -INFO - user click on Login button
+2023-02-27 17:22:25,864 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:23:10,503 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:23:10,734 - logger_File -INFO - user entered email and password
+2023-02-27 17:23:10,815 - logger_File -INFO - user click on Login button
+2023-02-27 17:23:10,840 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:24:04,246 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:24:04,487 - logger_File -INFO - user entered email and password
+2023-02-27 17:24:04,564 - logger_File -INFO - user click on Login button
+2023-02-27 17:24:04,584 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:25:01,928 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:25:02,144 - logger_File -INFO - user entered email and password
+2023-02-27 17:25:02,226 - logger_File -INFO - user click on Login button
+2023-02-27 17:25:02,248 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:27:14,188 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:27:14,443 - logger_File -INFO - user entered email and password
+2023-02-27 17:27:14,515 - logger_File -INFO - user click on Login button
+2023-02-27 17:27:14,539 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:32:41,944 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:32:42,175 - logger_File -INFO - user entered email and password
+2023-02-27 17:32:42,260 - logger_File -INFO - user click on Login button
+2023-02-27 17:32:42,282 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:33:53,866 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:33:54,095 - logger_File -INFO - user entered email and password
+2023-02-27 17:33:54,178 - logger_File -INFO - user click on Login button
+2023-02-27 17:33:54,196 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:33:54,460 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:33:54,562 - logger_File -INFO - user clicked on add payment btn
+2023-02-27 17:34:51,722 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:34:51,939 - logger_File -INFO - user entered email and password
+2023-02-27 17:34:52,023 - logger_File -INFO - user click on Login button
+2023-02-27 17:34:52,044 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:34:52,290 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:34:52,395 - logger_File -INFO - user clicked on add payment btn
+2023-02-27 17:38:30,830 - logger_File -INFO - user clicked on Sign in option button
+2023-02-27 17:38:31,080 - logger_File -INFO - user entered email and password
+2023-02-27 17:38:31,153 - logger_File -INFO - user click on Login button
+2023-02-27 17:38:31,171 - logger_File -INFO - user should be logged in into accout
+2023-02-27 17:38:31,449 - logger_File -INFO - user clicked on Account option
+2023-02-27 17:38:31,547 - logger_File -INFO - user clicked on add payment btn
