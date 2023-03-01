@@ -89,3 +89,16 @@
 2023-02-27 17:38:31,171 [main] INFO logger_File - user should be logged in into accout
 2023-02-27 17:38:31,449 [main] INFO logger_File - user clicked on Account option
 2023-02-27 17:38:31,547 [main] INFO logger_File - user clicked on add payment btn
+2023-02-28 21:02:18,449 [main] INFO logger_File - user
+2023-02-28 21:02:20,428 [main] INFO logger_File - user
+2023-02-28 21:02:22,477 [main] INFO logger_File - user
+2023-02-28 21:02:26,099 [main] INFO logger_File - user
+2023-02-28 21:02:28,232 [main] INFO logger_File - user
+2023-03-01 12:26:53,194 [main] INFO logger_File - user clicked on Sign in option button
+2023-03-01 12:26:53,497 [main] INFO logger_File - user entered email and password
+2023-03-01 12:26:53,594 [main] INFO logger_File - user click on Login button
+2023-03-01 12:26:53,627 [main] INFO logger_File - user should be logged in into accout
+2023-03-01 12:29:09,322 [main] INFO logger_File - user clicked on Sign in option button
+2023-03-01 12:29:09,666 [main] INFO logger_File - user entered email and password
+2023-03-01 12:29:09,796 [main] INFO logger_File - user click on Login button
+2023-03-01 12:29:09,831 [main] INFO logger_File - user should be logged in into accout
