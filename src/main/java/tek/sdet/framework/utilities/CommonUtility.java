@@ -70,6 +70,13 @@ public class CommonUtility extends BaseSetup{
 	        toClear.sendKeys(Keys.CONTROL + "a");
 	        toClear.sendKeys(Keys.DELETE);
 	    }
+	    public void clearText(WebElement element) {
+	        element.clear();
+	    }
+	    public void clearTextUsingJSExecutor(WebElement element) {
+	        JavascriptExecutor js = (JavascriptExecutor) getDriver();
+	        js.executeScript("arguments[0].value=''", element);
+	    }
 	    public void selectByIndex(WebElement ele, int index) {
 			Select select = new Select(ele);
 			select.selectByIndex(index);

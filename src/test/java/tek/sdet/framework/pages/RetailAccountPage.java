@@ -6,14 +6,16 @@ import org.openqa.selenium.support.PageFactory;
 
 import tek.sdet.framework.base.BaseSetup;
 
+
+
 public class RetailAccountPage extends BaseSetup{
 public RetailAccountPage() {
 	PageFactory.initElements(getDriver(), this);
 }
-@FindBy(xpath = "//img[@alt='profile pic']")
+@FindBy(xpath = "//img[@id='profileImage']")
 public WebElement accountProfilePicture;
 
-@FindBy(id = "accountLink")  //   //a[@id='accountLink']
+@FindBy(id = "accountLink")  //   //a[@id='accountLink']accountLink
 public WebElement accountButton;
 
 @FindBy(id = "nameInput")
@@ -22,10 +24,12 @@ public WebElement nameInputField;
 @FindBy(css = "#personalPhoneInput")
 public WebElement phoneNumberField;
 
-@FindBy(xpath= "//button[@id='personalUpdateBtn']")
+@FindBy(css="#personalUpdateBtn")////button[@id='personalUpdateBtn']]
 public WebElement updateButton;
 
-@FindBy(xpath= "//p[contains(text(),'Add a payment method')]")// Next test case
+@FindBy(xpath= "//div[text()='Personal Information Updated Successfully']")
+public WebElement personalInfoUpdateMassege;
+@FindBy(xpath="//p[text()='Add a payment method']")
 public WebElement addPaymentMethod;
 
 @FindBy(id = "cardNumberInput")  //  //input[@name='cardNumber']
@@ -43,9 +47,15 @@ public WebElement expirationYearField;
 @FindBy(xpath="//input[@name='securityCode']")
 public WebElement securtiyCodeField;
 
-@FindBy(id="paymentSubmitBtn")
-public WebElement addYourCardField;
+//@FindBy(id="paymentSubmitBtn")
+//public WebElement addYourCardField;
 
 @FindBy(xpath="//div[text()='Payment Method added sucessfully']")
 public WebElement successMessageForAddingCard;
+
+@FindBy(xpath="//p[@class='account__payment-sub-title']")
+public WebElement MasterCartIcon;
+@FindBy(xpath="//button[text()='Edit']")
+public WebElement editIcon;
+
 }

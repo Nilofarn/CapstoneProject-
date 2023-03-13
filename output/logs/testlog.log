@@ -102,3 +102,198 @@
 2023-03-01 12:29:09,666 - logger_File -INFO - user entered email and password
 2023-03-01 12:29:09,796 - logger_File -INFO - user click on Login button
 2023-03-01 12:29:09,831 - logger_File -INFO - user should be logged in into accout
+2023-03-02 18:45:21,042 - logger_File -INFO - user
+2023-03-02 18:45:23,123 - logger_File -INFO - user
+2023-03-02 18:45:26,064 - logger_File -INFO - user
+2023-03-02 18:45:29,737 - logger_File -INFO - user
+2023-03-02 18:45:31,959 - logger_File -INFO - user
+2023-03-02 18:55:12,301 - logger_File -INFO - user
+2023-03-02 18:55:14,313 - logger_File -INFO - user
+2023-03-02 18:55:16,290 - logger_File -INFO - user
+2023-03-02 18:55:18,345 - logger_File -INFO - user
+2023-03-02 18:55:20,078 - logger_File -INFO - user
+2023-03-04 16:48:19,391 - logger_File -INFO - user clicked on Signin option button
+2023-03-04 16:48:19,870 - logger_File -INFO - user entered email and password
+2023-03-04 16:48:20,050 - logger_File -INFO - user click on Login button
+2023-03-04 16:48:20,075 - logger_File -INFO - user should be logged in into accout
+2023-03-04 16:48:20,438 - logger_File -INFO - user clicked on Account option
+2023-03-04 16:48:20,991 - logger_File -INFO - user entered name and phone number
+2023-03-04 16:48:21,121 - logger_File -INFO - user clicked on Update button
+2023-03-04 16:57:12,766 - logger_File -INFO - user clicked on Signin option button
+2023-03-04 16:57:13,060 - logger_File -INFO - user entered email and password
+2023-03-04 16:57:13,207 - logger_File -INFO - user click on Login button
+2023-03-04 16:57:13,247 - logger_File -INFO - user should be logged in into accout
+2023-03-04 16:57:13,731 - logger_File -INFO - user clicked on Account option
+2023-03-04 16:57:14,298 - logger_File -INFO - user entered name and phone number
+2023-03-04 17:10:47,949 - logger_File -INFO - user clicked on Signin option button
+2023-03-04 17:10:48,439 - logger_File -INFO - user entered email and password
+2023-03-04 17:10:48,582 - logger_File -INFO - user click on Login button
+2023-03-04 17:10:48,637 - logger_File -INFO - user should be logged in into accout
+2023-03-04 17:10:49,040 - logger_File -INFO - user clicked on Account option
+2023-03-04 17:10:49,596 - logger_File -INFO - user entered name and phone number
+2023-03-04 17:17:22,924 - logger_File -INFO - user clicked on Signin option button
+2023-03-04 17:17:23,232 - logger_File -INFO - user entered email and password
+2023-03-04 17:17:23,340 - logger_File -INFO - user click on Login button
+2023-03-04 17:17:23,375 - logger_File -INFO - user should be logged in into accout
+2023-03-04 17:17:24,194 - logger_File -INFO - user clicked on Account option
+2023-03-04 17:17:24,633 - logger_File -INFO - user entered name and phone number
+2023-03-04 17:23:47,176 - logger_File -INFO - user clicked on Signin option button
+2023-03-04 17:23:47,580 - logger_File -INFO - user entered email and password
+2023-03-04 17:23:47,725 - logger_File -INFO - user click on Login button
+2023-03-04 17:23:47,744 - logger_File -INFO - user should be logged in into accout
+2023-03-04 17:23:48,110 - logger_File -INFO - user clicked on Account option
+2023-03-04 17:23:48,474 - logger_File -INFO - user entered name and phone number
+2023-03-04 17:27:51,588 - logger_File -INFO - user clicked on Signin option button
+2023-03-04 17:27:52,025 - logger_File -INFO - user entered email and password
+2023-03-04 17:27:52,166 - logger_File -INFO - user click on Login button
+2023-03-04 17:27:52,212 - logger_File -INFO - user should be logged in into accout
+2023-03-04 17:27:53,217 - logger_File -INFO - user clicked on Account option
+2023-03-04 17:27:53,330 - logger_File -INFO - user clicked on add payment btn
+2023-03-04 18:32:50,295 - logger_File -INFO - user clicked on Signin option button
+2023-03-04 18:32:50,777 - logger_File -INFO - user entered email and password
+2023-03-04 18:32:50,940 - logger_File -INFO - user click on Login button
+2023-03-04 18:32:50,972 - logger_File -INFO - user should be logged in into accout
+2023-03-04 18:32:51,364 - logger_File -INFO - user clicked on Account option
+2023-03-04 18:32:51,503 - logger_File -INFO - user clicked on add payment btn
+2023-03-07 09:32:24,259 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 09:32:24,636 - logger_File -INFO - user entered email and password
+2023-03-07 09:32:24,807 - logger_File -INFO - user click on Login button
+2023-03-07 09:32:24,843 - logger_File -INFO - user should be logged in into accout
+2023-03-07 09:32:25,174 - logger_File -INFO - User cliked on order Section
+2023-03-07 09:32:25,333 - logger_File -INFO - User clicked on first order in list
+2023-03-07 09:42:06,792 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 09:42:07,062 - logger_File -INFO - user entered email and password
+2023-03-07 09:42:07,152 - logger_File -INFO - user click on Login button
+2023-03-07 09:42:07,197 - logger_File -INFO - user should be logged in into accout
+2023-03-07 09:42:07,595 - logger_File -INFO - User cliked on order Section
+2023-03-07 09:42:08,048 - logger_File -INFO - User clicked on first order in list
+2023-03-07 09:42:36,140 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 09:42:36,508 - logger_File -INFO - user entered email and password
+2023-03-07 09:42:36,637 - logger_File -INFO - user click on Login button
+2023-03-07 09:42:36,665 - logger_File -INFO - user should be logged in into accout
+2023-03-07 09:42:37,352 - logger_File -INFO - User cliked on order Section
+2023-03-07 09:42:37,480 - logger_File -INFO - User clicked on first order in list
+2023-03-07 09:58:20,099 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 09:58:20,436 - logger_File -INFO - user entered email and password
+2023-03-07 09:58:20,587 - logger_File -INFO - user click on Login button
+2023-03-07 09:58:20,607 - logger_File -INFO - user should be logged in into accout
+2023-03-07 09:58:20,980 - logger_File -INFO - User cliked on order Section
+2023-03-07 09:58:21,082 - logger_File -INFO - User clicked on first order in list
+2023-03-07 11:09:05,062 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 11:09:05,094 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 11:09:05,736 - logger_File -INFO - user entered email and password
+2023-03-07 11:09:05,742 - logger_File -INFO - user entered email and password
+2023-03-07 11:09:05,848 - logger_File -INFO - user click on Login button
+2023-03-07 11:09:05,862 - logger_File -INFO - user click on Login button
+2023-03-07 11:09:05,876 - logger_File -INFO - user should be logged in into accout
+2023-03-07 11:09:05,886 - logger_File -INFO - user should be logged in into accout
+2023-03-07 11:09:05,929 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 11:09:06,130 - logger_File -INFO - User cliked on order Section
+2023-03-07 11:09:06,228 - logger_File -INFO - user entered email and password
+2023-03-07 11:09:06,340 - logger_File -INFO - user click on Login button
+2023-03-07 11:09:06,349 - logger_File -INFO - User cliked on order Section
+2023-03-07 11:09:06,379 - logger_File -INFO - user should be logged in into accout
+2023-03-07 11:09:06,434 - logger_File -INFO - User clicked on first order in list
+2023-03-07 11:09:06,488 - logger_File -INFO - User clicked on first order in list
+2023-03-07 11:09:06,646 - logger_File -INFO - User cliked on order Section
+2023-03-07 11:09:06,742 - logger_File -INFO - User clicked on first order in list
+2023-03-07 16:12:42,224 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 16:12:42,732 - logger_File -INFO - user entered email and password
+2023-03-07 16:12:42,898 - logger_File -INFO - user click on Login button
+2023-03-07 16:12:42,943 - logger_File -INFO - user should be logged in into accout
+2023-03-07 16:12:43,353 - logger_File -INFO - User cliked on order Section
+2023-03-07 16:12:43,470 - logger_File -INFO - User clicked on first order in list
+2023-03-07 17:02:23,108 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 17:02:23,477 - logger_File -INFO - user entered email and password
+2023-03-07 17:02:23,615 - logger_File -INFO - user click on Login button
+2023-03-07 17:02:23,655 - logger_File -INFO - user should be logged in into accout
+2023-03-07 17:02:24,047 - logger_File -INFO - User cliked on order Section
+2023-03-07 17:02:24,175 - logger_File -INFO - User clicked on first order in list
+2023-03-07 17:09:49,325 - logger_File -INFO - user clicked on Signin option button
+2023-03-07 17:09:49,680 - logger_File -INFO - user entered email and password
+2023-03-07 17:09:49,836 - logger_File -INFO - user click on Login button
+2023-03-07 17:09:49,882 - logger_File -INFO - user should be logged in into accout
+2023-03-07 17:09:50,214 - logger_File -INFO - User cliked on order Section
+2023-03-07 17:09:50,367 - logger_File -INFO - User clicked on first order in list
+2023-03-07 17:09:50,539 - logger_File -INFO - User clicked on cancel order btn
+2023-03-09 10:15:53,027 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 10:15:53,216 - logger_File -INFO - user entered email and password
+2023-03-09 10:15:53,281 - logger_File -INFO - user click on Login button
+2023-03-09 10:15:53,299 - logger_File -INFO - user should be logged in into accout
+2023-03-09 10:15:53,586 - logger_File -INFO - user clicked on Account option
+2023-03-09 10:15:53,850 - logger_File -INFO - user entered name and phone number
+2023-03-09 11:01:32,326 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 11:01:32,530 - logger_File -INFO - user entered email and password
+2023-03-09 11:01:32,594 - logger_File -INFO - user click on Login button
+2023-03-09 11:01:32,613 - logger_File -INFO - user should be logged in into accout
+2023-03-09 11:01:33,098 - logger_File -INFO - User cliked on order Section
+2023-03-09 11:01:33,243 - logger_File -INFO - User clicked on first order in list
+2023-03-09 11:01:33,328 - logger_File -INFO - User clicked on cancel order btn
+2023-03-09 11:06:31,955 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 11:06:32,157 - logger_File -INFO - user entered email and password
+2023-03-09 11:06:32,226 - logger_File -INFO - user click on Login button
+2023-03-09 11:06:32,244 - logger_File -INFO - user should be logged in into accout
+2023-03-09 11:06:32,513 - logger_File -INFO - User cliked on order Section
+2023-03-09 11:06:32,609 - logger_File -INFO - User clicked on first order in list
+2023-03-09 11:06:32,701 - logger_File -INFO - User clicked on cancel order btn
+2023-03-09 12:48:20,475 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 12:48:20,813 - logger_File -INFO - user entered email and password
+2023-03-09 12:48:20,949 - logger_File -INFO - user click on Login button
+2023-03-09 12:48:20,972 - logger_File -INFO - user should be logged in into accout
+2023-03-09 12:48:21,321 - logger_File -INFO - User cliked on order Section
+2023-03-09 12:48:21,489 - logger_File -INFO - User clicked on first order in list
+2023-03-09 12:48:21,663 - logger_File -INFO - User clicked on cancel order btn
+2023-03-09 12:49:56,756 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 12:49:57,088 - logger_File -INFO - user entered email and password
+2023-03-09 12:49:57,255 - logger_File -INFO - user click on Login button
+2023-03-09 12:49:57,289 - logger_File -INFO - user should be logged in into accout
+2023-03-09 12:49:57,692 - logger_File -INFO - User cliked on order Section
+2023-03-09 12:49:57,827 - logger_File -INFO - User clicked on first order in list
+2023-03-09 12:49:57,956 - logger_File -INFO - User clicked on cancel order btn
+2023-03-09 12:56:12,256 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 12:56:12,405 - logger_File -INFO - user clicked on new create acout btn
+2023-03-09 12:57:47,840 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 12:57:48,342 - logger_File -INFO - user entered email and password
+2023-03-09 12:57:48,512 - logger_File -INFO - user click on Login button
+2023-03-09 12:57:48,567 - logger_File -INFO - user should be logged in into accout
+2023-03-09 13:00:10,335 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 13:00:10,777 - logger_File -INFO - user entered email and password
+2023-03-09 13:00:10,942 - logger_File -INFO - user click on Login button
+2023-03-09 13:00:10,979 - logger_File -INFO - user should be logged in into accout
+2023-03-09 13:00:11,946 - logger_File -INFO - user clicked on Account option
+2023-03-09 13:00:12,113 - logger_File -INFO - user clicked on add payment btn
+2023-03-09 18:45:56,405 - logger_File -INFO - user clicked on Signin option button
+2023-03-09 18:45:56,632 - logger_File -INFO - user entered email and password
+2023-03-09 18:45:56,698 - logger_File -INFO - user click on Login button
+2023-03-09 18:45:56,715 - logger_File -INFO - user should be logged in into accout
+2023-03-09 18:45:57,330 - logger_File -INFO - user clicked on Account option
+2023-03-09 18:45:57,394 - logger_File -INFO - user clicked on add payment btn
+2023-03-11 11:16:31,327 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 11:16:31,395 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 11:44:39,202 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 11:44:39,280 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 11:50:36,283 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 11:50:36,358 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 11:56:43,216 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 11:56:43,289 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 11:57:08,289 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 11:57:08,372 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 12:01:50,807 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 12:01:50,884 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 12:03:42,491 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 12:03:42,679 - logger_File -INFO - user entered email and password
+2023-03-11 12:03:42,742 - logger_File -INFO - user click on Login button
+2023-03-11 12:03:42,765 - logger_File -INFO - user should be logged in into accout
+2023-03-11 12:06:07,762 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 12:06:07,842 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 12:09:02,097 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 12:09:02,175 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 12:19:32,680 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 12:19:32,751 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 12:22:58,606 - logger_File -INFO - user clicked on Signin option button
+2023-03-11 12:22:58,684 - logger_File -INFO - user clicked on new create acout btn
+2023-03-11 15:54:51,178 - logger_File -INFO - user clicked on all section btn
+2023-03-11 15:54:52,717 - logger_File -INFO - user clicked on all section btn
+2023-03-11 15:54:54,603 - logger_File -INFO - user clicked on all section btn
+2023-03-11 15:54:56,122 - logger_File -INFO - user clicked on all section btn
+2023-03-11 15:54:57,713 - logger_File -INFO - user clicked on all section btn
