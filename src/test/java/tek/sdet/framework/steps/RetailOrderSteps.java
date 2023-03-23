@@ -44,7 +44,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@Then("a cancelation message should be displayed ‘Your Order Has Been Cancelled’")
 	public void aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled() {
-		// Assert.assertTrue(isElementDisplayed.
+	 Assert.assertTrue(isElementDisplayed(factory.orderPage().cancelationMessage));
 		waitTillPresence(factory.orderPage().cancelationMessage);
 		logger.info("a cancelation message is displayed");
 
@@ -79,7 +79,7 @@ logger.info("User clickes on Return Order Btn");
 	}
 
 	@Then("a cancelation message should be displayed {string}")
-	public void CancelationMessageShouldBeDisplayed(String Massege) {// should i write in the method Return was successful or not??
+	public void CancelationMessageShouldBeDisplayed(String Massege) {
 		Assert.assertTrue(isElementDisplayed(factory.orderPage().cancelationMessage));// is the code right?
 		String actualMassege = factory.orderPage().cancelationMessage.getText();
 		String expectedMassege = "Return was successful";
@@ -108,11 +108,11 @@ logger.info("User clickes on Return Order Btn");
 		
 	}	
 	@Then("a review message should be displayed {string}")
-	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully(String string) {
+	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully(String reviewMessage) {
 		waitTillPresence(factory.orderPage().YourReviewAddedSuccessfullyMessage);
 		Assert.assertTrue(isElementDisplayed(factory.orderPage().YourReviewAddedSuccessfullyMessage));// is the code right?
 		String actualMassege = factory.orderPage().YourReviewAddedSuccessfullyMessage.getText();
-		String expectedMassege = "Your Review Added Successfully Message";
+		String expectedMassege = reviewMessage;
 		Assert.assertEquals(actualMassege, expectedMassege);
 		logger.info(" Massege  Review added Succesfully ");
 	}

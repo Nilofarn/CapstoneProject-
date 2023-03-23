@@ -58,4 +58,42 @@ public WebElement MasterCartIcon;
 @FindBy(xpath="//button[text()='Edit']")
 public WebElement editIcon;
 
+@FindBy(xpath = "//div[@class='account__address-new']")
+public WebElement AddAddressOption;
+
+  
+
+@FindBy(id = "countryDropdown")
+public WebElement countryDropdown;
+
+@FindBy(id ="fullNameInput")
+public WebElement fullNameiPUT;
+
+@FindBy(id="phoneNumberInput")
+public WebElement phoneNumberInput;
+
+@FindBy(id ="addressBtn")
+public WebElement addressBtn;
+
+@FindBy(id="streetInput")
+public WebElement streetNumber;
+
+@FindBy (id = "placeholder")
+public WebElement ApartmentInput;
+
+@FindBy (id = "cityInput")
+public WebElement cityInputField;
+
+@FindBy (xpath = " //select[@class='account__address-new-dropdown']")
+public WebElement StateDropdownOption;
+
+@FindBy (id = "zipCodeInput")
+public WebElement zipCodeInput;
+@FindBy(xpath = "//div[text()='Adress Added Successfully']")
+public WebElement addAddressSuccessfullyMsg;		
+
+
+
+
+
 }

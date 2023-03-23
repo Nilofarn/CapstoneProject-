@@ -15,7 +15,7 @@ Feature:
     And User select the cancelation Reason 'Bought wrong item'
     And User click on Cancel Order button
     Then a cancelation message should be displayed 'Your Order Has Been Cancelled'
-@test2
+@Test2
   Scenario: Verify User can Return the order
     And User click on Return Items button
     And User select the Return Reason 'Item damaged'
